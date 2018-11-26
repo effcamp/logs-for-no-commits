@@ -12,3 +12,9 @@
 1. Spent an hour on Web dev project. 
 
    Modeled footer and links for demo project. TODO: make the responsive version. Then the content.
+
+### November 25, 2018
+
+1. Spend an hour on Web dev project.
+
+   Fixed carousel. Started on responsiveness.
