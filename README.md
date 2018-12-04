@@ -18,3 +18,11 @@
 1. Spend an hour on Web dev project.
 
    Fixed carousel. Started on responsiveness.
+
+### December 3, 2018
+
+1. Spent 1 hour and 30 minutes on Web dev project.
+
+   Nav Menu is now completely responsive.
+   Fixed colors
+   TODO: Start other pages.
