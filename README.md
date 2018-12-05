@@ -26,3 +26,8 @@
    Nav Menu is now completely responsive.
    Fixed colors
    TODO: Start other pages.
+   
+### December 4, 2018
+
+1. Spent some time doing a Java assignment (nothing special, just some Regex and String manipulation)
+2. Started on the other pages of Web dev project.
