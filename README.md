@@ -31,3 +31,12 @@
 
 1. Spent some time doing a Java assignment (nothing special, just some Regex and String manipulation)
 2. Started on the other pages of Web dev project.
+
+### December 6, 2018
+
+1. Finalizing Wed dev project.
+2. Java assignment 7 (Used car information) completed
+
+### December, 7 2018
+
+1. Finished Web dev project
